@@ -13,6 +13,6 @@ how to run (usage):
 
 git clone https://github.com/alfredisskkk/SURPRISE.git
 
-cd ip-adress-troll
+cd SURPRISE
 
 python3 surprise.py
