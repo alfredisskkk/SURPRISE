@@ -11,7 +11,7 @@ Here's your IP address: (your ip)
 
 how to run (usage):
 
-git clone https://github.com/alfredisskkk/ip-adress-troll.git
+git clone https://github.com/alfredisskkk/SURPRISE.git
 
 cd ip-adress-troll
 
