@@ -8,6 +8,7 @@ code that says  SURPRISE IN BIG ASCII letters and under it your ipv4 adress
  |_____/ \____/|_|  \_\_|    |_|  \_\_____|_____/|______|
 
 Here's your IP address: (your ip)
+your mine lil bro
 
 how to run (usage):
 
