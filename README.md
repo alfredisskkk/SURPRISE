@@ -8,3 +8,9 @@ code that says  SURPRISE IN BIG ASCII letters and under it your ipv4 adress
  |_____/ \____/|_|  \_\_|    |_|  \_\_____|_____/|______|
 
 Here's your IP address: (your ip)
+how to run (usage):
+git clone https://github.com/alfredisskkk/ip-adress-troll.git
+
+cd ip-adress-troll
+
+python3 surprise.py
