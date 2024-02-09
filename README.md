@@ -22,3 +22,5 @@ git clone https://github.com/alfredisskkk/SURPRISE.git
 cd SURPRISE
 
 python3 surprise.py
+
+![surprise](https://github.com/alfredisskkk/SURPRISE/assets/139810278/44b6f508-bccb-4d06-a901-0ccef115f6bc)
